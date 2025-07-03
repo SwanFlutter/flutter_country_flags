@@ -1,7 +1,7 @@
 name: flutter_country_flags
-description: "A new Flutter package project."
+description: "A comprehensive Flutter package for displaying country flags with support for multiple input formats and customizable styling options."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/SwanFlutter/flutter_country_flags"
 
 environment:
   sdk: ^3.8.0
