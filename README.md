@@ -11,6 +11,8 @@ A comprehensive Flutter package for displaying country flags with support for mu
 - 📱 **Multiple Widgets**: Different widgets for different use cases
 - 🚀 **High Performance**: Optimized asset loading and caching
 
+![Capture41](https://github.com/user-attachments/assets/41540a42-38fe-4091-a797-56d4c4f43db7)
+
 ## Installation 📦
 
 Add this to your package's `pubspec.yaml` file:
